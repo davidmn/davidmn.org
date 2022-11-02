@@ -6,7 +6,7 @@ draft: false
 
 As per my previous post, I destroyed my Ghost installation. Nginx was shafted, networking in general was shafted, node was shafted. It was a mess. So I gave up and decided to go with a nice static site. Just like I always should have.
 
-I managed to fix the networking enough to SSH into it. Form their I dumped the mysql database into a file using a little bash
+I managed to fix the networking enough to SSH into it. From their I dumped the mysql database into a file using a little bash
 
 ``` bash
 mysqldump -u root -p ghost_production > ~/mysqldump
