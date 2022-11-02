@@ -1,0 +1,4 @@
+baseURL = 'https://www.davidmn.org'
+languageCode = 'en-gb'
+title = 'davidmn.org'
+theme = "ananke"
