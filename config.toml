@@ -12,7 +12,8 @@ theme = "beautifulhugo"
 
 [Params]
   subtitle = "Mostly boardgames"
-  favicon = "static/favicon.ico"
+  avatar = "img/avi.jpg"
+  favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
