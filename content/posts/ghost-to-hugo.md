@@ -1,6 +1,6 @@
 ---
 title: "Ghost to Hugo"
-date: 2022-11-01T18:20:00Z
+date: 2022-11-02T18:20:00Z
 draft: false
 ---
 
