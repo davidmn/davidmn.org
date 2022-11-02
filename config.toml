@@ -5,3 +5,19 @@ theme = "beautifulhugo"
 
 [author]
     name = "Dave Megins-Nicholas"
+    twitter = "MegaSlippers"
+    github = "davidmn"
+    instagram = "MegaSlippers"
+    spotify = "metaslippers"
+
+[Params]
+  subtitle = "Mostly boardgames"
+  favicon = "static/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+
+[[menu.main]]
+  name = "Blog"
+  url = ""
+  weight = 1
