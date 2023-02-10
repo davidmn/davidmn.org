@@ -6,7 +6,7 @@ draft: false
 
 I'm just this guy, you know?
 
-I mostly post stuff about board games and wargames. I reviews of stuff I've played and write guides on building/painting models. 
+I mostly post stuff about board games and wargames. I review stuff I've played and write guides on building/painting models. 
 
 Sometimes I post about music. This tends towards heavy/progressive metal but don't hold that against me. A pretty effective segment of my totality can be found in a brain dump of a [Spotify playlist](https://open.spotify.com/playlist/4rhyXjREPTKLH7BT1Mr3l3?si=a4cb951e22e446a4). There's more Welsh Male Voice Choirs than you'd expect.
 
