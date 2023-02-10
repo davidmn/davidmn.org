@@ -20,7 +20,7 @@ The problem is that if you use nested templates you're probably better off writi
 
 If you've used hyphens in your ARM template then the decompilation will turn them into underscores. Bicep doesn't like hyphens. Not understanding the implications of this would bite us later.
 
-## Fing Around / Finding Out
+## F'ing Around / Finding Out
 
 Then we had to play Chase The Config through our deployment pipeline. 
 
