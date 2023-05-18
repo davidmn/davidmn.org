@@ -5,7 +5,7 @@ theme = "beautifulhugo"
 
 [author]
     name = "Dave Megins-Nicholas"
-    mastodon = "@megaslippers@mastodon.org.uk"
+    mastodon = "@megaslippers@mastodon.social"
     twitter = "MegaSlippers"
     github = "davidmn"
     instagram = "MegaSlippers"
