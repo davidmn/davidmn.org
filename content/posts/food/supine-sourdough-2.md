@@ -1,7 +1,7 @@
 ---
 title: "Supine Sourdough Redux"
 date: 2021-01-09T21:25:32.00Z
-draft: true
+draft: false
 ---
 
 I've continued making sourdough and have been tinkering with the recipe:
@@ -17,5 +17,7 @@ I've continued making sourdough and have been tinkering with the recipe:
 9. Bake for 2 hours with the lid on, don't bother taking it off for a bit.
 
 These tweaks mean I've been putting in less work and getting better results. A recent loaf was what I'd call my best yet.
-<figure class="kg-card kg-image-card"><img src="/content/images/2021/01/Eq97M-EWMAAE8CK.jpg" class="kg-image"></figure>
+
+![](/content/images/2021/01/Eq97M-EWMAAE8CK.jpg)
+
 I think a wetter less worked dough gives this beautiful open texture. If every loaf were like this I'd be incredibly happy.
