@@ -6,7 +6,7 @@ draft: false
 
 I've been watching a lot of [Storm of Steel](https://www.youtube.com/@StormofSteelWargaming) for TooFatLardies related content. Alex does a lot of First World War scenarios which led me to realise I didn't actually know much about the period. Secondary school history covered some of the lead up and the aftermath (knowing Woodrow Wilson's Fourteen Points were definitely worth a few marks in exams) but not a lot else.
 
-![Second City](/content/images/2023/05/the-great-war.jpg)
+![The Great War](/content/images/2023/05/the-great-war.jpg)
 
 There's a lot of chat about Lions Led By Donkeys which is a position I'd been aware of but not held because frankly I didn't know enough to have a stance. The Great War by Peter Hart puts a lot of evidence forward to dissuade you from such a position.
 
