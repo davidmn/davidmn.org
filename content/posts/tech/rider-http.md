@@ -1,5 +1,5 @@
 ---
-title: "Replacing Postman with Bicep"
+title: "Replacing Postman with Rider"
 date: 2023-09-08T22:00:00.00Z
 draft: false
 ---
