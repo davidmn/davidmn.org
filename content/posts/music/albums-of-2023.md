@@ -12,7 +12,7 @@ I went back to some of the albums that [Enjoy An Album](https://www.youtube.com/
 
 I revisited Yellowcard's giga-hit [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA?si=TIYGn_DXQZCDlgmgq9xFjw). The second track Breathing has been a mainstay for me since it featured on Burnout 3: Takedown's soundtrack. I've not sat and listened to the entire album since about 2005. It's great.
 
-Some more nostalgia, while awaiting Steve Wilson's Harmony Codex I listened to _a lot_ of Porcupine Tree. [Deadwing](https://open.spotify.com/album/74O7hici16u70YPo7JzuPH?si=uRdf4kgjRyGydU1fp7tM9Q) I think getting the most play time. The titular track probably made it into my [Desert Island Discs](https://open.spotify.com/playlist/2C4zA9O0TzeG6W6oYIGXfN?si=03df491e0f5543d3).
+Some more nostalgia, while awaiting Steve Wilson's Harmony Codex I listened to _a lot_ of Porcupine Tree. [Deadwing](https://open.spotify.com/album/74O7hici16u70YPo7JzuPH?si=uRdf4kgjRyGydU1fp7tM9Q) I think getting the most play time. The titular track made it into my [Desert Island Discs](https://open.spotify.com/playlist/2C4zA9O0TzeG6W6oYIGXfN?si=03df491e0f5543d3).
 
 Once The Harmony Codex came out later in the year it shot to my most played album. I'd love to go to one of his mega Dolby Atmos listening events for it.
 
@@ -26,4 +26,4 @@ I saw Joe Satriani after a 3 year wait. Really really good. Old hits, new banger
 
 I couldn't make it to The Chats unfortunately, their [setlist](https://www.setlist.fm/setlist/the-chats/2023/o2-institute-birmingham-england-6bb91ece.html) looked fantastic.
 
-The end of the year has seen me go big on prog. Listening to a lot of Dream Theater, Haken, TOOL, The Pineapple Thief, and Opeth. On the subject of Opeth in the last week I've become addicted to their 2017 [live recording from Red Rocks](https://www.youtube.com/watch?v=b3MS-2e33bk). I'm in the mood for long songs and full album listens. I 
+The end of the year has seen me go big on prog. Listening to a lot of Dream Theater, Haken, TOOL, The Pineapple Thief, and Opeth. On the subject of Opeth in the last week I've become addicted to their 2017 [live recording from Red Rocks](https://www.youtube.com/watch?v=b3MS-2e33bk). I'm in the mood for long songs and full album listens.
