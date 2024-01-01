@@ -4,7 +4,7 @@ date: 2024-01-01T16:00:00+00:00
 draft: false
 ---
 
-I Kickstarted this back in April 2021, it arrived last month and I've given it a thorough read but haven't made anything from it yet.
+I [Kickstarted](https://www.kickstarter.com/projects/miniature-terrain/hardcover-book-making-miniature-terrain-vol-1) this back in April 2021, it arrived last month and I've given it a thorough read but haven't made anything from it yet.
 
 A beautiful hardback with that Games Workshop rulebook smell. Utterly fantastic production values. So many incredible photographs of finished terrain and excellent step-by-step ones too.
 
