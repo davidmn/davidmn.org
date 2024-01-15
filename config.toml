@@ -12,7 +12,7 @@ theme = "beautifulhugo"
     spotify = "metaslippers"
 
 [Params]
-  subtitle = "Mostly boardgames"
+  subtitle = "Just this guy, you know?"
   avatar = "avi.jpg"
   favicon = "favicon.ico"
   dateFormat = "January 2, 2006"
