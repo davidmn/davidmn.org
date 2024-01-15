@@ -1,6 +1,6 @@
 ---
 title: "Book Review: Discipline Is Destiny: The Power of Self-Control"
-date: 2024-01-015T08:00:00+00:00
+date: 2024-01-15T08:00:00+00:00
 draft: false
 ---
 
