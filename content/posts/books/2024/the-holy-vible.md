@@ -8,4 +8,4 @@ draft: false
 
 I have been sharing my Retro Oner journey with a friend and I said "Wouldn't it be great if John Robins had written a book?". Turns out Elis and John already wrote a book and it's good fun. Especially in January 2024 while they're on a short break.
 
-Get the audiobook because it's got a bunch of bonus content.
+Get the audiobook because it's got a bunch of bonus chat.
