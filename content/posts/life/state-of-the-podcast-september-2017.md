@@ -6,7 +6,7 @@ draft: false
 
 [x1101](https://twitter.com/x1101) sent a question to the [podcast](http://sixgun.org/geeknewsradio) a few weeks back about what we're listening to these days. At this moment I've got 29 feeds in my podcatcher (I still use [Pocket Casts](https://www.shiftyjelly.com/pocketcasts/), recently it got SONOS support). I wont bore you with the full list but I'll go through some of the choice cuts.
  
-[All Units](http://thewonderofitall.xyz/all-units) is Sean McTiernan's two year project to disect the Thriller movie. I don't know anything about films and I learn stuff from this. I also really dig Sean's humour.
+[All Units](http://thewonderofitall.xyz/all-units) is Sean McTiernan's two year project to dissect the Thriller movie. I don't know anything about films and I learn stuff from this. I also really dig Sean's humour.
  
 [Bad Voltage](http://www.badvoltage.org/) is my bi-weekly time where I agree with [Stuart](https://twitter.com/sil) about tech things.
  
@@ -16,7 +16,7 @@ draft: false
  
 [Rum Doings](https://botherer.org/tag/rum-doings/) has been going for a long time. It's John Walker and Nick Mailer chatting about things. It's gone a bit into dad-chat but I still enjoy it.
  
-[Run Last Click](http://runlastclick.blogspot.co.uk/) is basically my only Netrunner endulgence these days. Every episode reminds me of how great that game is.
+[Run Last Click](http://runlastclick.blogspot.co.uk/) is basically my only Netrunner indulgence these days. Every episode reminds me of how great that game is.
  
 [Shot Reverse Shot](http://www.srspodcast.com/) another attempt at me trying to learn things about film. Edwin and Matt (+ guests while Matt is traveling) talk about films and I pretend to understand.
  
