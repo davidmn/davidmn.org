@@ -14,4 +14,4 @@ In my 9-5 I am a Software "Engineer" doing .NET stuff in eCommerce. In the past 
 
 My academic achievements are probably no longer relevant but I did Astrophysics then Computer Vision Engineer at The University of Sheffield.
 
-My socials are linked below. Follow for photos of my cat Iolo.
+My socials are linked below. Follow for photos of my cat Enzo.
