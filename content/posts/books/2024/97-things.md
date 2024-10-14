@@ -1,5 +1,5 @@
 ---
-title: "97 Things Every Cloud Engineers Should Know"
+title: "97 Things Every Cloud Engineer Should Know"
 date: 2024-10-14T13:00:00+00:00
 draft: false
 ---
