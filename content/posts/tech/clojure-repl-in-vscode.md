@@ -15,13 +15,18 @@ My setup is:
 - Install [Calva](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) on the Ubuntu side[0]
 - Open up your clojure project and then "jack in" to the repl with "Calva: Start A Project REPL and Connect" which you can find in the standard CTRL+SHIFT+P menu, select leiningen and you're away.
 
-<figure class="kg-card kg-image-card kg-width-full"><img src="/content/images/2021/05/image.png" class="kg-image"></figure>
+![](/content/images/2021/05/image.png)
+
 The left pane shows your files while the right shows the REPL output.
 
 Start running lines (forms) by selecting it with your cursor and hitting SHIFT+ENTER or by running "Calva: Evaluate Current Form" which will output in the REPL window on the right and show it next to the form in the text editor.
-<figure class="kg-card kg-image-card kg-width-full"><img src="/content/images/2021/05/image-1.png" class="kg-image"></figure>
+
+![](/content/images/2021/05/image-1.png)
+
 Then running the entire file/namespace is done with "Calva: Load Current File and Dependencies":
-<figure class="kg-card kg-image-card kg-width-full"><img src="/content/images/2021/05/image-2.png" class="kg-image"></figure>
+
+![](/content/images/2021/05/image-2.png)
+
 That's it for now.
 
 [0] - I imagine running it all on your local machine also works

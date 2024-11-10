@@ -7,8 +7,8 @@ draft: false
 
 I played No Man's Sky for the first time today. It's alright. I can hear the internet scream "BUT DAVE! WHERE'S THE HOT TAKE? WHAT ABOUT THE BRAND?" Deal with it.
  
-I came into NMS knowing pretty much nothing about how it all works or really what it is. So if you want to watch the first 40 minutes of me faffing about and being awful at computer games, see the video below.
- <iframe width="560" height="315" src="https://www.youtube.com/embed/QJ5fjzXrqsc" frameborder="0" allowfullscreen=""></iframe> 
+I came into NMS knowing pretty much nothing about how it all works or really what it is. So if you want to watch the first 40 minutes of me faffing about and being awful at computer games, see the video below (Note to the reader from a more recent Dave: as of 2024 that video no longer exists).
+
 I've played another few hours since. It's not a lot to really say anything meaningful but I might not play any more for a while, I'll get to why eventually.
  
 First off there's no HOTAS support. That was basically the only thing I wanted from it. Fucked it lads.

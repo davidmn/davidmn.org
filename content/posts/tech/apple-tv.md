@@ -4,7 +4,8 @@ date: 2021-06-08T11:30:00.00Z
 draft: false
 ---
 
-<figure class="kg-card kg-image-card"><img src="/content/images/2021/06/image.png" class="kg-image"></figure>
+![Apple TV](/content/images/2021/06/image.png)
+
 I bought a 64GB 4K Apple TV recently and it's magic.
 
 It replaces a combination of Fire and NowTV sticks. Both of which are old and were cheap at the time. Their UIs are slow, remotes feels cheap, and clutter up the place.
