@@ -3,15 +3,20 @@ languageCode = 'en-gb'
 title = 'davidmn.org'
 theme = "beautifulhugo"
 enableGitInfo = true
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 
 [params]
-  subtitle = "Just this guy, you know?"
-  avatar = "avi.jpg"
+  homeTitle = "Just this guy, you know?"
+  logo = "avi.jpg"
   favicon = "favicon.ico"
   dateFormat = "January 2, 2006"
   rss = true
   commit = "https://github.com/davidmn/davidmn.org/tree/"
   readingTime = true
+  useHLJS = true
 
 [params.author]
   name = "Dave Megins-Nicholas"
