@@ -2,22 +2,23 @@ baseURL = 'https://www.davidmn.org'
 languageCode = 'en-gb'
 title = 'davidmn.org'
 theme = "beautifulhugo"
+enableGitInfo = true
 
-[author]
-    name = "Dave Megins-Nicholas"
-    mastodon = "mastodon.social/@megaslippers"
-    twitter = "MegaSlippers"
-    github = "davidmn"
-    instagram = "MegaSlippers"
-    spotify = "metaslippers"
+[Author]
+  name = "Dave Megins-Nicholas"
+  mastodon = "mastodon.social/@megaslippers"
+  twitter = "MegaSlippers"
+  github = "davidmn"
+  instagram = "MegaSlippers"
+  spotify = "metaslippers"
 
 [Params]
   subtitle = "Just this guy, you know?"
   avatar = "avi.jpg"
   favicon = "favicon.ico"
   dateFormat = "January 2, 2006"
-  commit = false
   rss = true
+  commit = "https://github.com/davidmn/davidmn.org/tree/"
 
 [[menu.main]]
   name = "Blog"
