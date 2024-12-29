@@ -21,7 +21,6 @@ pygmentsCodefencesGuessSyntax = true
 [params.author]
   name = "Dave Megins-Nicholas"
   mastodon = "mastodon.social/@megaslippers"
-  twitter = "MegaSlippers"
   github = "davidmn"
   instagram = "MegaSlippers"
   spotify = "metaslippers"
