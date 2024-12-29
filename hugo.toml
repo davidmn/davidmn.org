@@ -25,6 +25,7 @@ pygmentsCodefencesGuessSyntax = true
   github = "davidmn"
   instagram = "MegaSlippers"
   spotify = "metaslippers"
+  bluesky = "megaslippers.net"
 
 [[menu.main]]
   name = "Blog"
