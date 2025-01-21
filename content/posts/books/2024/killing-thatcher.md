@@ -8,6 +8,6 @@ Killing Thatcher by Rory Carroll came recommended from at least two podcasters/c
 
 Carroll follows the threads of many players very closely whilst avoiding Space Opera style "who the hell is this guy and why have we had three chapters on him?". He also covers all sides with an even hand, even Thatcher herself.
 
-I particularly enjoy the little asides where he describes particulary British things like Richard Whiteley (RIP), Watford, and the SAS.
+I particularly enjoy the little asides where he describes particularly British things like Richard Whiteley (RIP), Watford, and the SAS.
 
 Give this a read, especially while it's in the Zeitgeist.
