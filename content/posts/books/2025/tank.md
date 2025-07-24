@@ -1,6 +1,6 @@
 ---
 title: "Tank: The 10 War Machines That Changed the World and the Remarkable Men Behind Them"
-date: 2025-07-24T08:00:00+00:00
+date: 2025-07-24T07:00:00+00:00
 draft: false
 ---
 
