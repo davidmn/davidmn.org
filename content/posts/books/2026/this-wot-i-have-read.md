@@ -1,6 +1,6 @@
 ---
 title: "Things Wot I Have Read"
-date: 2026-05-18T19:30:00.00Z
+date: 2026-05-18T18:30:00.00Z
 draft: false
 ---
 
